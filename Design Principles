@@ -1,0 +1,13 @@
+
+==== Design Patterns ====
+
+- Decorator Pattern: Attaches additional responsibilities to an object dynamically. Decorators provide a flexible
+alternative to subclassing for extending functionality.
+
+
+==== Design Principles ====
+
+- Favor composition over inheritance
+
+- Classes should be open for extension, but closed for modification
+
